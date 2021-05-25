@@ -6,8 +6,8 @@ Assets/Firebase/Plugins/iOS/Firebase.RemoteConfig.dll.mdb
 Assets/Firebase/Plugins/x86_64/FirebaseCppRemoteConfig.bundle
 Assets/Firebase/Plugins/x86_64/FirebaseCppRemoteConfig.dll
 Assets/Firebase/Plugins/x86_64/FirebaseCppRemoteConfig.so
-Assets/Firebase/m2repository/com/google/firebase/firebase-config-unity/7.0.1/firebase-config-unity-7.0.1.pom
-Assets/Firebase/m2repository/com/google/firebase/firebase-config-unity/7.0.1/firebase-config-unity-7.0.1.srcaar
+Assets/Firebase/m2repository/com/google/firebase/firebase-config-unity/7.0.2/firebase-config-unity-7.0.2.pom
+Assets/Firebase/m2repository/com/google/firebase/firebase-config-unity/7.0.2/firebase-config-unity-7.0.2.srcaar
 Assets/Firebase/m2repository/com/google/firebase/firebase-config-unity/maven-metadata.xml
 Assets/Plugins/iOS/Firebase/libFirebaseCppRemoteConfig.a
 Assets/package.json
