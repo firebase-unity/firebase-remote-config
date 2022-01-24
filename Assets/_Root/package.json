@@ -1,6 +1,6 @@
 {
-  "name": "com.snorlax.firebase-remote-config",
-  "version": "8.6.1",
+  "name": "com.google.firebase.remote-config",
+  "version": "8.5.0",
   "displayName": "Firebase Remote Config",
   "keywords": [
     "Google",
@@ -18,14 +18,6 @@
   "description": "Customize your game on the fly.\n\nRemote Config lets you dynamically change the behavior and appearance of your game right from the Firebase console so you can deliver personalized experiences to players - without waiting for app store approval.",
   "unity": "2017.1",
   "dependencies": {
-    "com.snorlax.firebase-app": "8.6.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:snorluxe/firebase-remote-config.git",
-    "directory": "com.snorlax.firebase-remote-config"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@snorluxe"
+    "com.google.firebase.app": "8.5.0"
   }
 }
