@@ -4,7 +4,7 @@
 
 for version `10.1.0`
 ```csharp
-"com.google.firebase.analytics": "https://github.com/firebase-unity/firebase-analytics.git#10.1.0",
+"com.google.firebase.remote-config": "https://github.com/firebase-unity/firebase-remote-config.git#10.1.0",
 ```
 
 
