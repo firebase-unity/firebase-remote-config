@@ -1,0 +1,14 @@
+Assets/Firebase/Editor/RemoteConfigDependencies.xml
+Assets/Firebase/Plugins/Firebase.RemoteConfig.dll
+Assets/Firebase/Plugins/Firebase.RemoteConfig.pdb
+Assets/Firebase/Plugins/iOS/Firebase.RemoteConfig.dll
+Assets/Firebase/Plugins/iOS/Firebase.RemoteConfig.pdb
+Assets/Firebase/Plugins/x86_64/FirebaseCppRemoteConfig.bundle
+Assets/Firebase/Plugins/x86_64/FirebaseCppRemoteConfig.dll
+Assets/Firebase/Plugins/x86_64/FirebaseCppRemoteConfig.so
+Assets/Firebase/m2repository/com/google/firebase/firebase-config-unity/12.5.0/firebase-config-unity-12.5.0.pom
+Assets/Firebase/m2repository/com/google/firebase/firebase-config-unity/12.5.0/firebase-config-unity-12.5.0.srcaar
+Assets/Firebase/m2repository/com/google/firebase/firebase-config-unity/maven-metadata.xml
+Assets/Plugins/iOS/Firebase/libFirebaseCppRemoteConfig.a
+Assets/Plugins/tvOS/Firebase/libFirebaseCppRemoteConfig.a
+Assets/package.json
